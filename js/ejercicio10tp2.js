@@ -11,7 +11,7 @@ document.write("<table border>")
 for(let indiceFilas=0; indiceFilas < filas; indiceFilas++){
     document.write("<tr>")
     for(let indiceColumnas=0; indiceColumnas<columnas; indiceColumnas++){
-        document.write("<td>"+total--)
+        document.write("<td>"+total--  )
         document.write("</td>")
     }
     document.write("</tr>")
